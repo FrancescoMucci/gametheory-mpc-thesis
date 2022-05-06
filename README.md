@@ -6,4 +6,4 @@ The aim of this thesis is provide a simple introduction to the Game Theory field
 
 The research work and thesis writing was done during the curricular internship at [Department of Statistics, Computer Science, Applications "Giuseppe Parenti" (University of Florence)](https://www.disia.unifi.it).
 
-See https://github.com/FrancescoMucci/CS-thesis-and-assignments for other projects and assignments done for the Bachelor's and Master's degree in Computer Science.
+See https://github.com/FrancescoMucci/CS-theses-and-assignments for other projects and assignments done for the Bachelor's and Master's degree in Computer Science.
